@@ -1,0 +1,78 @@
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.EmanetKitapListeleFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.emanetKitapListeUyeFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.EmanetKitapVerFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.EmanetKitapİadeFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.AnaSayfaFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.GirisFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.GrafikFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.grafikUyeFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.KitapEkleFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.KitapListeleFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.kitapListeleUyeFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.SifreFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.Properties.Resources.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.SıralamaFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.sıralamaUyeFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.UyeEkleFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.uyeGirisSayfaFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.UyeListelemeFrm.resources
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\bin\Debug\kutuphane_otomasyon.exe.config
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\bin\Debug\kutuphane_otomasyon.exe
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\bin\Debug\kutuphane_otomasyon.pdb
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.exe
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.pdb
+C:\Users\PC\Desktop\kutuphane oto. proje\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\bin\Debug\kutuphane_otomasyon.exe.config
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\bin\Debug\kutuphane_otomasyon.exe
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\bin\Debug\kutuphane_otomasyon.pdb
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.EmanetKitapListeleFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.emanetKitapListeUyeFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.EmanetKitapVerFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.EmanetKitapİadeFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.AnaSayfaFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.GirisFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.GrafikFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.grafikUyeFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.KitapEkleFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.KitapListeleFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.kitapListeleUyeFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.SifreFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.Properties.Resources.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.SıralamaFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.sıralamaUyeFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.UyeEkleFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.uyeGirisSayfaFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.UyeListelemeFrm.resources
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.exe
+C:\Users\PC\Desktop\Projects\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.pdb
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\bin\Debug\kutuphane_otomasyon.exe.config
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\bin\Debug\kutuphane_otomasyon.exe
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\bin\Debug\kutuphane_otomasyon.pdb
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.csprojAssemblyReference.cache
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.EmanetKitapListeleFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.emanetKitapListeUyeFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.EmanetKitapVerFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.EmanetKitapİadeFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.AnaSayfaFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.GirisFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.GrafikFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.grafikUyeFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.KitapEkleFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.KitapListeleFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.kitapListeleUyeFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.SifreFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.Properties.Resources.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.SıralamaFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.sıralamaUyeFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.UyeEkleFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.uyeGirisSayfaFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.UyeListelemeFrm.resources
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.csproj.GenerateResource.cache
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.csproj.CoreCompileInputs.cache
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.exe
+D:\.Projects\kutuphane_otomasyon\kutuphane_otomasyon\obj\Debug\kutuphane_otomasyon.pdb
