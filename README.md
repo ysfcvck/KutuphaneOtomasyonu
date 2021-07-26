@@ -1,4 +1,18 @@
-Kullanıcı Arayüzü
+- If the user name or password is entered incorrectly 3 times in a row, the application will close itself.
+- When a new user is added, a 6-digit security code is given to change the user password.
+- When the user logs in, 3 options appear. From these options, he can see all the books in the database, the books given to him and the order.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+  **Admin Panel**
+- In this panel; member, book, escrow book and ranking management can be done.
+- A maximum of 3 books can be entrusted to a user at the same time.
+- When the entrusted books expire, they are returned from this panel.
+- Issued books are deducted from stock and returned books are added to stock.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+User Interface
 
 ![Login](https://user-images.githubusercontent.com/81382160/126087624-ec427846-5efb-4d14-a7e6-f85efbf0a6d1.png)
 ![LoginHata](https://user-images.githubusercontent.com/81382160/126087627-2d460294-3ae2-4a88-a838-ee130fba547b.png)
@@ -6,8 +20,9 @@ Kullanıcı Arayüzü
 ![KitapListesi](https://user-images.githubusercontent.com/81382160/126087635-a146e21e-be97-4990-9322-d5edae8d97e1.png)
 ![Siralama](https://user-images.githubusercontent.com/81382160/126087640-97b96c12-0797-4ad6-a4a5-fc084bc951db.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Yönetici Paneli
+Admin Panel
 
 ![Anasayfa](https://user-images.githubusercontent.com/81382160/126087650-061f1add-ddfc-47a1-ac60-5e1930d74334.png)
 ![UyeEkleme](https://user-images.githubusercontent.com/81382160/126087665-9f31ba66-2cd5-4508-abc5-95ae53755460.png)
